@@ -1,0 +1,21 @@
+.container {
+   display: grid;
+   grid-template-columns: repeat(2, 315px);
+   align-items: center;
+}
+
+.code__word {
+   height: 30px;
+   width: 300px;
+   font-size: 23px;
+}
+
+.decode__btn {
+   height: 36px;
+   width: 70px;
+}
+
+.decode__res {
+   margin: 0;
+   font-size: 33px;
+}
